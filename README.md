@@ -5,3 +5,7 @@
 ## Links 📎
 
 - [Python Brasil Wiki - Lista de Exercícios](https://wiki.python.org.br/ListaDeExercicios)
+
+## 📜 Licença
+
+Este projeto é feito sobre a licença do MIT, para mais informações sobre a sua possível utilização, modificação e compartilhamento, [clique aqui](LICENSE).
